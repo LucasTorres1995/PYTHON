@@ -46,3 +46,20 @@
 # OPERADORES DE IGUALDADE
 # == OU is
 # ambos tem a mesma função mas pode apresentar resultados diferentes dependendo do local onde rodará python
+
+
+#-----------------------------------------------------------------------------------------------------#
+# CONVERSÃO DE TIPOS
+# MAIS COMUNS
+
+# int(NUMEROS INTEIROS)   str(TEXTO)   float(NUMEROS DECIMAIS)   list()   tuple()     dict()
+
+# EXEMPLOS
+
+# NESTE CASO ELE CONVERTE O STRING PARA NUMERO INTEIRO
+idade = input('Qual é sua idade?')
+print(int(idade) > 18)
+
+# NESTE EXEMPLO É CONSIDERADO A ALTURA QUE É NUMERO DECIMAL
+altura = input('Qual sua altura?')
+print(float(altura) > 1.80)
