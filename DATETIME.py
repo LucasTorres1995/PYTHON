@@ -7,6 +7,8 @@ from datetime import datetime
 # data_atual = datetime.now() # busca a data atual
 # print(data_atual)
 
+
 dia_atual = datetime(2020, 5, 7)
 aniversario = dia_atual - datetime.now()
 print(aniversario)
+
