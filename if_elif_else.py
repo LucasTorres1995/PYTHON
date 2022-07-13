@@ -63,6 +63,6 @@
 
 
 # DESAFIO TERNÁRIO
-velocidade = 101
-print('Siga em frente') if velocidade <= 100 else print(
-    'Você foi multado')
+# velocidade = 101
+# print('Siga em frente') if velocidade <= 100 else print(
+#     'Você foi multado')
