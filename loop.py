@@ -46,6 +46,7 @@
 #   tentativas += 1
 
 # SENHA
+
 # senha = ''
 # while senha != '123456':
 #     senha = input ('Digite sua senha: ')
